@@ -1,4 +1,1 @@
-study
-=====
-
-Folder for student's stuff
+Вячеслав Детков РИ-220401
